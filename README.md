@@ -1,4 +1,4 @@
-# headtax
+# Chinese Canadian Headtax Project
 Chinese Canadian Headtax Project
 This dataset was based off of the original dataset on Open Collections UBC: 
 https://open.library.ubc.ca/cIRcle/collections/facultyresearchandpublications/52383/items/1.0075988
